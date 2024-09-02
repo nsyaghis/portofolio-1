@@ -32,6 +32,7 @@ const info = [
     title: "Address",
     description: "Bandung",
   },
+  
 ];
 
 const Contact = () => {

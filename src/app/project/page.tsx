@@ -11,6 +11,15 @@ const projects = [
     description: 'Technical test of recruitment website',
     href: "https://technical-test-mbc.vercel.app/", // URL yang dituju
   },
+  {
+    num: '02',
+    title: 'NsySafePast',
+    description: 'A cybersecurity tool written in python',
+    href: "https://github.com/nsyaghis/nsysafepass", // URL yang dituju
+  },
+
+
+
 ];
 
 const Project = () => {
